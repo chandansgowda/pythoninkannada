@@ -12,6 +12,7 @@ Uniquota Python Telegram Group - http://bit.ly/pythontelegram
 1. Learn Python in Kannada - http://bit.ly/learnpythoninkannada
 2. Introduction to coding in Kannada - http://bit.ly/codinginkannad
 3. Can Biology students do well in computer science? - https://youtu.be/SU8dUEjAjAk
+4. Hackerrank in Kannada - https://www.youtube.com/watch?v=bBru8lJlOFs
 
 ✨ RECOMMENDED ARTICLE ✨
 
