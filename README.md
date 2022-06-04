@@ -7,6 +7,8 @@ Learn Python in Kannada - http://bit.ly/learnpythoninkannada
 
 Uniquota Python Telegram Group - http://bit.ly/pythontelegram
 
+Uniquota Python Whatsapp Group - https://chat.whatsapp.com/EEJkDTqhJoQF1S5dzkUgNv
+
 ✨ RECOMMENDED VIDEOS ✨
 
 1. Learn Python in Kannada - http://bit.ly/learnpythoninkannada
