@@ -1,5 +1,5 @@
 # Learn Python in Kannada
-This repository is used to share the code for python project tutorials (in kannada language) uploaded on Uniquota Education Youtube Channel.
+This repository is used to share the code for python programming tutorials (in kannada language) uploaded on Engineering in Kannada Youtube Channel.
 
 ✨PLAYLIST LINK ✨
 
@@ -26,8 +26,6 @@ PCMB to Computer science (My story) - https://bit.ly/3AyXupN
 📸 Instagram: http://bit.ly/uniquotainsta
 
 📸 Personal Instagram: http://bit.ly/csginstaconnect
-
-🌎 Website: https://www.uniquota.in
 
 📱 Twitter: http://bit.ly/csgtwitteracc
 
