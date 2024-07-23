@@ -1,13 +1,11 @@
 import qrcode
 
 print("QR Code Generator")
-print("Created by @chandan")
+print("Created by @-Mohan")
 
 data = input("Enter input>> ")
-
 qr = qrcode.make(data)
+qr.save("qrcode.png")
 
-qr.save("C:/Users/chand/Desktop/qrcode.png")
-
-print("QR Code generation successful")
+print("QR Code generated")
 
